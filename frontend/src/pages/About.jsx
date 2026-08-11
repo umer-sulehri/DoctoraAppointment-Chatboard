@@ -79,7 +79,7 @@ const About = () => {
                         <h3 className='text-lg font-bold text-gray-900 mb-2'>Our Vision</h3>
                         <p className='text-gray-600'>
                             To create a seamless healthcare experience for every user by bridging the gap between patients and
-                            healthcare providers — making it easier to access the care you need, when you need it. testing
+                            healthcare providers — making it easier to access the care you need, when you need it.
                         </p>
                     </div>
                 </div>
